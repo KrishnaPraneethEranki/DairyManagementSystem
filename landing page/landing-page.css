@@ -1,0 +1,41 @@
+.logo{
+    background-color:#ECECF5;
+    position:absolute;
+    left:200px;
+    top:150px; 
+}
+.rectangle{
+    position:relative;
+    left:80px; 
+    top:50px; 
+}
+.button1{
+    position:absolute;
+    left:965px; 
+    width:420px;
+    height:50px;
+    color:#ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-family:Baloo Bhai;
+    font-size: 34px;
+    background-color: #284D96;
+    border: 5px solid #4B7BC5;
+    border-radius: 27px;
+    box-shadow: 5px 11px 25px #32496b;
+
+}
+.button1:hover {
+opacity: 0.8;
+}
+
+.hyprtext{
+position: absolute;
+left: 1080px;
+top: 419px;
+font-size: 20px;
+font-family: Baloo bhai;
+color: #FFFFFF;
+text-decoration: none;
+}
+
